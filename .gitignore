@@ -1,2 +1,5 @@
 # Dirs
 data
+
+# Files
+.DS_Store
