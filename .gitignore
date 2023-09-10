@@ -2,3 +2,4 @@
 data
 *.pkl
 *.csv
+.DS_Store
