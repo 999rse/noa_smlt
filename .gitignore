@@ -1,5 +1,5 @@
 # Dirs
 data
-
-# Files
+*.pkl
+*.csv
 .DS_Store
